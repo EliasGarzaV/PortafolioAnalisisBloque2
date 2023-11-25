@@ -1,6 +1,6 @@
 # Portafolio de Análisis Bloque 2
 # Repositorio de Análisis y Machine Learning
-Este es el repositorio de Implementación para la concentración en Inteligencia Artificial Avanzada de Elías Garza Valdés A01284041.
+Este es el repositorio de Análisis para la concentración en Inteligencia Artificial Avanzada de Elías Garza Valdés A01284041.
 
 
 ## A revisar por módulo
