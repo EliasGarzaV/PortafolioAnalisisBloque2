@@ -6,16 +6,16 @@ Este es el repositorio de Implementación para la concentración en Inteligencia
 ## A revisar por módulo
 
 ### Estadística
-- [Actividad 4:](Estadistica/Act-4-Poisson.pdf) - Poisson
+- [Actividad 1:](Estadistica/Act-1-Normal-Multivariada.pdf) - Normal Multivariada
 
-- [Actividad 5:](Estadistica/Act-5-Logistica.pdf) - Regresión Logística
+- [Actividad 2:](Estadistica/Act-2-PCA.pdf) - Componentes Principales
 
-- [Actividad 7:](Estadistica/Act-7-TS.pdf) -Series de tiempo 1
-
-- [Actividad 8:](Estadistica/Act-8-TS2.pdf) - Series de tiempo 2
+- [Actividad 3:](Estadistica/Act-3.pdf) - Distribuciones
 
 ### Deep Learning
 - [Evidencia TL con CNN:](DeepLearning/Reto_IA_avnzada_TL.pdf) - Reporte de reto
+
+- [Video explicativo:](DeepLearning/VideoExplicativoDL.md) - El video tambien se puede encontrar en https://drive.google.com/file/d/1hIkVLC6CFXqAasCHKnUxZSKvytc4RIbE/view?usp=drivesdk 
 
 ### NLP
 - [Reporte NLP:](NLP/Evidencia_NLP.pdf) - Reporte con descripción de app creada para transcribir y sumarizar audio. 
@@ -33,17 +33,27 @@ Este es el repositorio de Implementación para la concentración en Inteligencia
 
 ## Estructura del Repositorio 
 ```
-📦PortafolioImplementacionBloque2
- ┣ 📂Big Data
- ┃ ┗ 📜.gitkeep
- ┣ 📂Cloud Computing
+📦PortafolioAnalisisBloque2
+ ┣ 📂BigData
+ ┃ ┣ 📜.gitkeep
+ ┃ ┣ 📜MonitorUsuarios.png
+ ┃ ┗ 📜TableroApp.png
+ ┣ 📂CloudComputing
  ┃ ┣ 📜CloudStorage_Equipo4.pdf
  ┃ ┗ 📜ServicioVPS_Equipo4.pdf
  ┣ 📂DeepLearning
  ┃ ┣ 📜LTSM.ipynb
  ┃ ┣ 📜Reto_IA_avnzada_TL.pdf
- ┃ ┗ 📜vgg_cat_n_dog_full.h5
+ ┃ ┣ 📜vgg_cat_n_dog_full.h5
+ ┃ ┗ 📜VideoExplicativoDL.md
  ┣ 📂Estadistica
+ ┃ ┣ 📜Act 1 Normal Multivariada.Rmd
+ ┃ ┣ 📜Act 2 PCA.Rmd
+ ┃ ┣ 📜Act 3.Rmd
+ ┃ ┣ 📜Act 4 Poisson.Rmd
+ ┃ ┣ 📜Act 5.Rmd
+ ┃ ┣ 📜Act 7.ipynb
+ ┃ ┣ 📜Act 8TS.Rmd
  ┃ ┣ 📜Act-1-Normal-Multivariada.pdf
  ┃ ┣ 📜Act-2-PCA.pdf
  ┃ ┣ 📜Act-3.pdf
@@ -60,5 +70,6 @@ Este es el repositorio de Implementación para la concentración en Inteligencia
  ┃ ┣ 📜Evidencia_NLP.pdf
  ┃ ┣ 📜MA1.m4a
  ┃ ┗ 📜NLP_A01284041_EliasGarza.py
+ ┣ 📜.gitignore
  ┗ 📜README.md
 ```
